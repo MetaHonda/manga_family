@@ -13,6 +13,9 @@ function App() {
         <p className="text-lg md:text-xl text-gray-600">
           めたほんだ家のドタバタな日常をお届けする4コマコミックエッセイ
         </p>
+        <p className="text-sm text-gray-500 mt-2">
+          （2017年から前後数年間くらいのお話です）
+        </p>
       </header>
 
       {/* Main Content */}
