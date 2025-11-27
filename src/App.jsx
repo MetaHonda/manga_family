@@ -69,7 +69,7 @@ function App() {
           <div className="p-4 bg-gray-50 border-t border-gray-200 text-center">
             <p className="text-gray-600 mb-4">読んでくれてありがとう！</p>
             <a
-              href="https://x.com/MetaHONDA/status/1993541976436990370?s=20"
+              href="https://ytc0q5y1ms2-live.yw.app"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-comic-accent hover:bg-orange-600 text-white font-bold py-2 px-6 rounded-full transition duration-300 shadow-md transform hover:scale-105"
